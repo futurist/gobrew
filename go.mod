@@ -1,4 +1,4 @@
-module github.com/kevincobain2000/gobrew
+module github.com/futurist/gobrew
 
 go 1.17
 
